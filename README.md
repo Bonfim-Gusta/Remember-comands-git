@@ -4,3 +4,4 @@ Alteração 1
 
 Alteração vindo da branch de teste
 Outra alteração vindo da branch de teste
+Mais uma alteração
